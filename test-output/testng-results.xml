@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15923" started-at="2015-07-12T08:18:03Z" finished-at="2015-07-12T08:18:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15923" started-at="2015-07-12T08:18:03Z" finished-at="2015-07-12T08:18:19Z">
+      <class name="com.exercise.madison.madisonProject.TestWomenPage">
+        <test-method status="PASS" signature="womenTest()[pri:0, instance:com.exercise.madison.madisonProject.TestWomenPage@5e025e70]" name="womenTest" duration-ms="15908" started-at="2015-07-12T04:18:03Z" finished-at="2015-07-12T04:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- womenTest -->
+      </class> <!-- com.exercise.madison.madisonProject.TestWomenPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
